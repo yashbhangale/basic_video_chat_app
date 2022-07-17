@@ -1,0 +1,16 @@
+body {
+    background:
+    linear-gradient(
+      rgba(0, 0, 0, 0), 
+      rgba(0, 0, 0, 0)
+    ),
+    url(https://github.com/yashbhangale/Geeksdirectory/blob/main/wp4892354-4k-minimal-wallpapers.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0; 
+}
